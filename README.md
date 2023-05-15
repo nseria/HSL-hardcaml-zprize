@@ -1,7 +1,8 @@
-# Hardcaml ZPrize
+# HWSEC-msm
 
 ```
-The zprize-2022-submission branch is pretty much the code we provided for the competition, plus some work on the documentation.
+The original of this repo is from Hardcaml-zprize. We try to upgrade hardware acceleration of msm & ntt using FPGA based on hardcaml codes.
+The following explanations are based on the content written in the original repository, with some additional information included.
 ```
 
 In 2022, we, the team who develops Hardcaml ([Andy Ray](https://github.com/andrewray), [Ben Devlin](https://github.com/bsdevlin), [Fu Yong Quah](https://github.com/fyquah), and [Rahul Yesantharao](https://github.com/rahulyesantharao)) participated in the [ZPrize competition](https://www.zprize.io/). We competed in the Multi-Scalar Multiplication (MSM) and Number Theoretic Transform (NTT) tracks.
