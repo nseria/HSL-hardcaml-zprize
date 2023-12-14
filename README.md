@@ -1,4 +1,4 @@
-# HWSEC-msm
+# HSL-msm
 The original of this repo is from Hardcaml-zprize.
 
 # Hardcaml team
